@@ -1,0 +1,23 @@
+p {margin-top: 20px;
+   margin-bottom: 20px;
+   margin-right: 100px;
+   margin-left: 10px;
+}
+
+div {
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+p { 
+    background-color: rgb(224, 71, 24);
+}
+
+body {
+	width: 100%;
+	margin: 0 auto;
+	background-color: rgb(133, 43, 43);
+	font-size: 100%;
+}
